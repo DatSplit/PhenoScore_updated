@@ -1,0 +1,18 @@
+tensorflow==2.7.0
+tqdm==4.64.1
+deepface==0.0.75
+numpy>=1.18.5,<1.25.0
+scikit-learn==1.2.0
+obonet==0.3.0
+phenopy @ git+https://github.com/GeneDx/phenopy.git@1709c8c676f215ad71772da5e5d4da240c3ec82d
+openpyxl==3.0.10
+seaborn==0.12.0
+scipy==1.9.1
+networkx~=2.8.7
+matplotlib~=3.6.1
+lime @ git+https://github.com/ldingemans/lime.git@3365ccee00664263d3be903f7a34fa49676a8f42
+setuptools~=63.4.1
+pillow~=9.2.0
+torch==1.13.0
+torchvision==0.14.0
+menpo

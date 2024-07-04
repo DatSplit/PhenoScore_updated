@@ -1,0 +1,10 @@
+*.pickle
+*.xlsx
+*.pdf
+*.png
+*.pkl
+KBG*/
+KDVS*/
+PHF5A*/
+PhenoScore.txt
+PhenoScore_fork/
