@@ -1,6 +1,6 @@
 #### Reproducing figures and results from the internship report "Pheno-OptiLIME: faithful local interpretable model-agnostic explanations for phenotypic data"
 
-The data is not publicly available, but the code is in `notebooks\Reproduce_figures_and_results.ipynb`
+The data is not publicly available, but the code is in `notebooks\Reproduce_figures_and_results.ipynb`.
 
 # PhenoScore
 ![PhenoScore logo](phenoscore_logo.png) 
