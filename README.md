@@ -1,3 +1,7 @@
+#### Reproducing figures and results from the internship report "Pheno-OptiLIME: faithful local interpretable model-agnostic explanations for phenotypic data"
+
+The data is not publicly available, but the code is in `notebooks\Reproduce_figures_and_results.ipynb`
+
 # PhenoScore
 ![PhenoScore logo](phenoscore_logo.png) 
 PhenoScore is an open source, artificial intelligence-based phenomics framework that combines facial recognition technology with Human Phenotype Ontology (HPO) data analysis to quantify phenotypic similarity at both the level of individual patients as well as of cohorts.
